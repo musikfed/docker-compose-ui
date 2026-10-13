@@ -172,4 +172,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+## Contact / Контакты
+
+- Email: [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru)
+- Telegram: [@Feudorlab1](https://t.me/Feudorlab1)
 

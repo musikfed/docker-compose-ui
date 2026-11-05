@@ -1,6 +1,5 @@
 # docker-compose-ui · Visual showcase / Презентация
 
-![Project-specific editable vector architecture](overview.svg)
 
 **Форк стороннего проекта / Fork of another developer's project** · Docker Compose → Web dashboard → REST API → Container management · **fork**.
 

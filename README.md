@@ -194,4 +194,3 @@ THE SOFTWARE.
 
 [**Visual architecture, translations and contact**](docs/showcase/README.md)
 
-![docker-compose-ui architecture](docs/showcase/overview.svg)

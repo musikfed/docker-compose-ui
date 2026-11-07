@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "id": "docker-compose-ui",
+  "title": "docker-compose-ui",
+  "version": "0.0.0",
+  "description": "web interface for Docker Compose",
+  "tags": [
+    "JavaScript"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "interface",
+  "status": "Черновик — ожидает проверки",
+  "repo_url": "https://github.com/musikfed/docker-compose-ui",
+  "screenshots": [
+    "https://raw.githubusercontent.com/musikfed/docker-compose-ui/master/docs/showcase/overview.svg",
+    "https://raw.githubusercontent.com/musikfed/docker-compose-ui/master/screenshots/logs.png",
+    "https://raw.githubusercontent.com/musikfed/docker-compose-ui/master/screenshots/project-detail.png"
+  ],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot"
+}

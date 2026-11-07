@@ -8,7 +8,7 @@
     "JavaScript"
   ],
   "visibility": "public",
-  "publication": "review_required",
+  "publication": "publish_on_merge",
   "public_private_approved": false,
   "display_mode": "interface",
   "status": "Черновик — ожидает проверки",
